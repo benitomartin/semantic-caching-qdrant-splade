@@ -1,8 +1,7 @@
 # RAG Application with Optimizations on HNSW Index, Quantization, Hybrid Search and Semantic Caching 🗽
 
 <p align="center">
-<img width="821" alt="image" src="https://github.com/user-attachments/assets/634da424-f8ec-4157-bd5e-2319b15e0c45">
-</p>
+<img width="710" alt="image" src="https://github.com/user-attachments/assets/4df1f41d-5094-4869-8369-84f7f9a17043"></p>
 
 This repository contains an application application using Qdrant as Vector Database, Hybrid Seach with SPLADE embeddings, semantic caching and some optimization insights related to the configuration of the HNSW Index and quantization
 
